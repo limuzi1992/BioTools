@@ -46,5 +46,3 @@ def extract_seq_by_number(fin_fasta, n, m, fout_fasta):
         
 #extract_seq_by_id(fin_fasta, fin_list, fout_fasta)
 extract_seq_by_number(fin_fasta, n, m, fout_fasta)
-
-print 'hi'
